@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+
+.footer {
+    padding: 1rem 3rem;
+    text-align: center;
+
+    hr {
+        border: 0;
+        border-top: 1px solid lightgray;
+        margin: 0.5rem auto; 
+    }
+
+    p {
+        margin: 0;
+        font-size: 0.875rem;
+        color: #333333;
+        font-family: 'PT Sans', sans-serif;
+        font-weight: bold;
+    }
+}
